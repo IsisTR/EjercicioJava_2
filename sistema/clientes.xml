@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DATAPACKET Version="1.0">
+  <METADATA>
+    <FIELDS>
+      <FIELD ATTRNAME="id" FIELDTYPE="Integer" WIDTH="74"/>
+      <FIELD ATTRNAME="nombre" FIELDTYPE="String" WIDTH="144"/>
+      <FIELD ATTRNAME="ci" FIELDTYPE="String" WIDTH="81"/>
+      <FIELD ATTRNAME="telefono" FIELDTYPE="String" WIDTH="81"/>
+      <FIELD ATTRNAME="correo" FIELDTYPE="String" WIDTH="144"/>
+    </FIELDS>
+  </METADATA>
+  <ROWDATA>
+    <ROW id="1" nombre="Rodrigo Hernandez" ci="21234560" telefono="04149580032" correo="hernandezr@gmal.com"/>
+    <ROW id="4" nombre="Isis Tovar" ci="26834873" telefono="04261378597" correo="itrequena09@gmail.co"/>
+    <ROW id="5" nombre="Keyna Perez" ci="21238300" telefono="04243456711" correo="keyanp@gmail.com"/>
+    <ROW id="6" nombre="Carmen Pita" ci="9674654" telefono="0461378895" correo="carmep@gmail.com"/>
+  </ROWDATA>
+</DATAPACKET>
